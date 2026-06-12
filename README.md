@@ -1,17 +1,15 @@
-# 🎓 Student Admission Portal
 
-A lightweight Python application designed to process student admission requests based on departmental merit criteria.
+# 🎓 Student Admission Logic (Python Core)
 
-## 🚀 Overview
-This project demonstrates the use of *Python Dictionaries* and *Conditional Logic* to automate the admission decision-making process. It handles input for various departments like Engineering, Medical, and Computer Science.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Logic](https://img.shields.io/badge/Status-Stable-blue?style=for-the-badge)
 
-## 🛠️ Features
-- *Dictionary Management:* Stores student profiles efficiently.
-- *Eligibility Logic:* Custom merit thresholds for different departments.
-- *Error Handling:* Implements try-except blocks to manage invalid user inputs (e.g., non-numeric marks).
-- *Formatted Output:* Uses f-strings for clean, readable results.
+A fundamental Python implementation of university admission logic. This repository serves as the core engine for validating student eligibility using dictionary-based data mapping and robust error handling.
 
-## 💻 How to Use
-1. Ensure you have Python installed.
-2. Run the script: python simple_admission_dictionary.py
-3. Enter the student's name, department, and marks to see the status.
+## 🛠 Features
+- **Dictionary Mapping:** Efficient storage and retrieval of student data.
+- **Criteria Validation:** Automated check against university admission standards.
+- **Clean Code:** Adheres to PEP 8 standards for readability.
+
+---
+<p align="center">Part of the <a href="https://github.com/hafizabdulaziz">hafizabdulaziz</a> portfolio.</p>
